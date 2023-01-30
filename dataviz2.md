@@ -1,7 +1,7 @@
 # Assignment: Visualizing Government Debt
 
 ## OECD Debt-to-GDP Ratios, 2019
-This bar chart, from [the OECD Data website](https://oecd.data.org), shows debt ratios as a percentage of each country's GDP for 2019. Ten countries are highlighted, and the black bar shows the OECD average. 
+This bar chart, from [the OECD Data website](https://data.oecd.org), shows debt ratios as a percentage of each country's GDP for 2019. Ten countries are highlighted, and the black bar shows the OECD average. 
 
 <iframe src="https://data.oecd.org/chart/6Y2m" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Y2m" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
