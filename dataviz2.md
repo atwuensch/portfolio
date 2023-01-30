@@ -6,3 +6,5 @@
 ## Which Country Has the Highest Debt Ratio?
 <div class="flourish-embed flourish-chart" data-src="visualisation/12596066"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Japan, Greece Have Highest Debt Ratios
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/12596361"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
