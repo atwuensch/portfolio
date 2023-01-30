@@ -11,6 +11,7 @@ I love public finance, budgets, and taxes, and part of my work at the Borough of
 # Portfolio
 
 ## Assignment: Visualizing Government Debt
+[Debt-to-GDP ratios, 2019] (/dataviz2.md)
 
 ## Assignment 3 & 4: Critique by Design
 
