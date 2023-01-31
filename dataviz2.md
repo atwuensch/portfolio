@@ -11,6 +11,9 @@ Using the same public dataset from the OECD on general government debt, this gri
 <div class="flourish-embed flourish-chart" data-src="visualisation/12596066"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Japan, Greece Have Highest Debt Ratios
+Using the same OECD on general government debt, this heatmap shows years on the x-axis and countries on the y-axis, with the darker red indicating higher debt ratios and the lighter red indicating lower debt ratios. From this heatmap, Japan and Greece are easily identified as having the highest debt ratios. 
+
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/12596361"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## How Different Data Visualizations Compare
+The OECD bar chart clearly and quickly identifies which countries have the highest debt ratios, but only for a single year, 2019. The grid of line charts shows each country's trends over time clearly, but it is difficult to look at it quickly and get a sense of which countries have the highest debt-to-GDP ratios and how the ratios across countries compare to each other. I wanted to emphasize these two aspects quickly. I relied on the visual conventions of red as negative and darker shades indicating higher values. I can quickly see that Greece and Japan have the darkest red values. Additionally, by scanning vertically by country, I can quickly compare how countries' debt ratios are relative to each other. 
