@@ -2,12 +2,12 @@
 
 ## Original Data Visualization
 ### Pittsburgh Budget Priorities
-![pittsburgh budget priority chart](Pittsburgh Budget Priorities.png)
+<img src="Pittsburgh Budget Priorities.png" width="200"/>
 
 ## Critique
 
 ## Redesign Sketches
-![redsign sketch](Pittsburgh Budget Redesign Sketch.jpg)
+<img src="Pittsburgh Budget Redesign Sketch.jpg" width="200"/>
 
 ## Feedback
 
