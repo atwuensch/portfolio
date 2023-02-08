@@ -53,4 +53,3 @@ Talking with these two people helped crystallize that the relationship between t
 My original issue with the original visualization was that it was not engaging enough to the viewer, but the more deeply I dug, the more I realized that it was not showing an important relationship between its two variables at all, but instead presenting them as entirely discrete. Using Flourish and Tableau, I did try several different iterations of the cleaned data before settling on the final scatterplot. 
 
 In the end, though not the ideal form of budget visualization I anticipated at the beginning of the process, the scatterplot helped illustrate what had become the main difficulty, which was showing the correlation between the number of programs and the amount of funding allocated. 
-
