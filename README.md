@@ -17,6 +17,6 @@ I love public finance, budgets, and taxes, and part of my work at the Borough of
 [Visualizing Government Debt](/dataviz2.md)
 
 ## Assignment 3 & 4: Critique by Design
-[Critique by Design] (/dataviz3&4.md)
+[Critique by Design](/dataviz3&4.md)
 
 ## Final Project
