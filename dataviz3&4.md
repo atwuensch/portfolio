@@ -7,7 +7,7 @@
 ## Critique
 
 ## Redesign Sketches
-![redesign sketch](Pittsburgh Budget Redesign Sketch.jpg)
+! [redsign sketch](Pittsburgh Budget Redesign Sketch.jpg)
 
 ## Feedback
 
