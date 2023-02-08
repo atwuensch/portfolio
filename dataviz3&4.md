@@ -10,6 +10,12 @@
 <img src="Pittsburgh Budget Redesign Sketch.jpg" width="600"/>
 
 ## Feedback
+### Student, early 30's
+
+
+
+
+### Adult, early 60's
 
 ## Final Redesign
 
