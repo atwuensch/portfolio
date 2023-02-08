@@ -47,7 +47,6 @@ Talking with these two people helped crystallize that the relationship between t
 
 
 ## Final Redesign
-
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12678393"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 My original issue with the original visualization was that it was not engaging enough to the viewer, but the more deeply I dug, the more I realized that it was not showing an important relationship between its two variables at all, but instead presenting them as entirely discrete. Using Flourish and Tableau, I did try several different iterations of the cleaned data before settling on the final scatterplot. 
