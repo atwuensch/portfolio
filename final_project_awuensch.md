@@ -11,6 +11,12 @@ My final project is about civic participation and engagement in local government
 
 
 ### Data Sources
+#### Trust in Government Data
+- [Gallup Poll, "Americans Trust in Government Remains Low"](https://news.gallup.com/poll/355124/americans-trust-government-remains-low.aspx)
+
+#### Voter Turnout Data
+
+#### Civic Participation Data
 
 
 ### Method and Medium
