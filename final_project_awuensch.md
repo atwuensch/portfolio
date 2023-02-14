@@ -12,13 +12,14 @@ My final project is about civic participation and engagement in local government
 
 ### Data Sources
 #### Trust in Government Data
-- [Gallup Poll, "Americans Trust in Government Remains Low"](https://news.gallup.com/poll/355124/americans-trust-government-remains-low.aspx)
+- [Gallup Poll, "Americans Trust in Government Remains Low", 2021](https://news.gallup.com/poll/355124/americans-trust-government-remains-low.aspx)
 
 
 #### Voter Turnout Data
-- [Western Pennsylvania Regional Data Center, "City of Pittsburgh Capital Budget Deliberative Forum Survey Responses](https://data.wprdc.org/dataset/capital-budget-deliberative-forum-survey)
+- [Portland State University, "Who Votes for Mayor?", 2016](http://whovotesformayor.org/)
+- [Allegheny County, PA, "November 2, 2021 Municipal Election Official Results", 2021](https://results.enr.clarityelections.com/PA/Allegheny/111176/web.285569/#/turnout)
 
 #### Civic Participation Data
-
+- [Western Pennsylvania Regional Data Center, "City of Pittsburgh Capital Budget Deliberative Forum Survey Responses", 2019](https://data.wprdc.org/dataset/capital-budget-deliberative-forum-survey)
 
 ### Method and Medium
