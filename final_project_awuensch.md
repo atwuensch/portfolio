@@ -23,12 +23,12 @@ My call to action will be to show case studies of local governments that are try
 
 ### Data Sources
 
-“Americans’ Trust in Government Remains Low.” Gallup.com, September 30, 2021. https://news.gallup.com/poll/355124/americans-trust-government-remains-low.aspx.
-Bureau, US Census. “Volunteering and Civic Life.” Census.gov. Accessed February 13, 2023. https://www.census.gov/data/datasets/time-series/demo/cps/cps-supp_cps-repwgt/cps-volunteer.html.
-“City of Pittsburgh Capital Budget Deliberative Forum Survey Responses - WPRDC.” Accessed February 13, 2023. https://data.wprdc.org/dataset/capital-budget-deliberative-forum-survey.
-“Election Night Reporting.” Accessed February 13, 2023. https://results.enr.clarityelections.com/PA/Allegheny/111176/web.285569/#/turnout.
-Governing. “The Citizens Most Vocal in Local Government,” June 11, 2014. https://www.governing.com/archive/gov-national-survey-shows-citizens-most-vocal-active-in-local-government.html.
-“Who Votes For Mayor? | A Project of Portland State University and the Knight Foundation.” Accessed February 13, 2023. http://whovotesformayor.org/.
+-“Americans’ Trust in Government Remains Low.” Gallup.com, September 30, 2021. https://news.gallup.com/poll/355124/americans-trust-government-remains-low.aspx.
+-Bureau, US Census. “Volunteering and Civic Life.” Census.gov. Accessed February 13, 2023. https://www.census.gov/data/datasets/time-series/demo/cps/cps-supp_cps-repwgt/cps-volunteer.html.
+-“City of Pittsburgh Capital Budget Deliberative Forum Survey Responses - WPRDC.” Accessed February 13, 2023. https://data.wprdc.org/dataset/capital-budget-deliberative-forum-survey.
+-“Election Night Reporting.” Accessed February 13, 2023. https://results.enr.clarityelections.com/PA/Allegheny/111176/web.285569/#/turnout.
+-Governing. “The Citizens Most Vocal in Local Government,” June 11, 2014. https://www.governing.com/archive/gov-national-survey-shows-citizens-most-vocal-active-in-local-government.html.
+-“Who Votes For Mayor? | A Project of Portland State University and the Knight Foundation.” Accessed February 13, 2023. http://whovotesformayor.org/.
 
 
 
