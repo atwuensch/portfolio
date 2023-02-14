@@ -14,6 +14,11 @@ I will then move on to discuss how much impact local government has on people's 
 My call to action will be to show case studies of local governments that are trying to engage their citizens in innovative ways, including the City of Pittsburgh and Allegheny County. I will illustrate that the government wants your opinion and is open to suggestions. 
 
 ### Initial Sketches
+<img src="Sketches1&2.jpg" width="600"/>
+<img src="Sketches3&4.jpg" width="600"/>
+<img src="Sketch5.jpg" width="600"/>
+<img src="Sketches6&7.jpg" width="600"/>
+
 
 
 ### Data Sources
