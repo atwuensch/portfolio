@@ -34,3 +34,11 @@ User #2 thought it was an overview on civic engagement and the lack thereof, and
 ##### User #3 - Student, early 30's
 User #3 suggested changing the color schemes of the data visualizations to better highlight key aspects. In particular, they suggested changing the colors for the slope graph to emphasize local government, if that was the point. They said it was difficult to distinguish between the lines for state and federal government. They also suggested changing the treemaps so that the yes answers were on the left, not the right, since that is the direction in which English readers move. They also suggested changing the yellow to something else, maybe gray.  
 ##### Changes to Implement
+##### Based on User #1's Feedback
+User #1 made a good point that this likely is not for the general public but for people already interested in engagement, as I identified my audience. Their feedback helped to reinforce that. However, another good point was that people don't necessarily understand the government and how it works very well, so I would like to provide a little more contextual information on how this will help local governments and what information is available for people and who they can contact. I will also emphasize the social connection aspect and maybe include a separate section on their social media and current events for people to attend. 
+
+##### Based on User #2's Feedback
+I will fix the donut chart to make it less confusing and clarify why I chose Pennsylvania cities (including State College) as a comparison point instead of all 50 cities identified. I will also make the icon chart larger and more prominent. Additionally, they did not feel the call to action was prominent, so I will include more lead in for the call to action and make it more engaging and show the impact it will have. 
+
+##### Based on User #3's Feedback
+I will change the color palettes of the charts to remove the yellow and include gray. I will also reorient the treemaps so they read from left to right. I will also use colors to emphasize trust in local government more in the slope chart and choose different colors for state and federal government. 
