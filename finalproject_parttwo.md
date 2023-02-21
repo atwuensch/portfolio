@@ -25,5 +25,9 @@ Brief introduction – “This is for my Telling Stories with Data class, and I�
 “What other questions or comments do you have about this page?”
 
 ##### Findings
+User #1 - Adult, early 60's
 User #1 thought it was about increasing engagement for people who aren't necessarily already engaged in government. They thought it was not geared towards the general public, but more for people trying to work on the issue of engagement, such as community groups. They also thought it presented like a PowerPoint presentation instead of a web page. They said it's good information, as it's a constant challenge to get people engaged. They were president of their neighborhood association, and the challenge was always getting people to care enough to talk about what's going on. They said people like to complain about government, but they don't really understand it. They also suggested emphasizing the social aspect. 
+
+User #2 - Teacher, late 20's
+User #2 thought it was an overview on civic engagement and the lack thereof, and provides a bit of a call to action, like "You could be civically engaged, too." They suggested the audience is residents of Allegheny County who are of voting age. They thought the graphs were good for the most part, and they liked how you could hover over them to interact with them. They also thought it was a good balance of types of graphs. There's not an overwhelming amount, they kept your interest, and they weren't so new and different that they were confusing. They also thought there was a good balance between data visualizations, more dense blocks, and section headings. They did suggest that the donut chart is confusing and to make the icon chart bigger so you could understand the scale better. 
 ##### Changes to Implement
