@@ -21,5 +21,5 @@ I love public finance, budgets, and taxes, and part of my work at the Borough of
 
 ## Final Project
 [Part One](/final_project_awuensch.md)
----
+<br>
 [Part Two](/finalproject_parttwo.md)
