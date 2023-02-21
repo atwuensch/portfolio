@@ -3,6 +3,8 @@
 ### Wireframes/Storyboards in Shorthand
 I wireframed my data visualizations in Flourish and embedded them into a draft of my story in Shorthand. This helped me both understand Shorthand better and get visual context for how my data visualizations would look in the context of my story. This also allowed me to easily present my story and visualizations to my users for user research. 
 
+https://preview.shorthand.com/px8bZCOs7Wfxktch
+
 ### User Research
 #### User Research Protocol
 In developing my user research protocol, my main goal was to find out whether the story was engaging or not. Many people who are not already interested in government will tune out when discussing government, and my goal was to find out if I could keep users engaged enough that they would respond positively to my call to action. I also wanted to know if the data visualizations and the overall layout made sense to them. 
