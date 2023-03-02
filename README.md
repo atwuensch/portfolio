@@ -11,7 +11,6 @@ I love public finance, budgets, and taxes, and part of my work at the Borough of
 # Portfolio
 
 ## Examples
-[King County COVID Cases](/kingcountydemo.md)
 
 ## Assignment: Visualizing Government Debt
 [Visualizing Government Debt](/dataviz2.md)
