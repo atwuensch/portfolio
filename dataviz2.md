@@ -1,4 +1,4 @@
-| [home page](https://atwuensch.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://atwuensch.github.io/portfolio/) | [visualizing government debt](/dataviz2.md) | [critique by design](/dataviz3&4.md) | [final project I](/final_project_awuensch.md) | [final project II](/finalproject_parttwo.md) | [final project III](/finalproject_partthree.md) |
 
 # Assignment: Visualizing Government Debt
 
