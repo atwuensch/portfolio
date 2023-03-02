@@ -36,4 +36,4 @@ Maciag, Mike. “The Citizens Most Vocal in Local Government,” June 11, 2014. 
 
 “Voter Turnout.” Accessed February 20, 2023. https://fairvote.org/resources/voter-turnout/.
 
-“Who Votes For Mayor? | A Project of Portland State University and the Knight Foundation.” Accessed February 13, 2023. http://whovotesformayor.org/.
+“Who Votes For Mayor? A Project of Portland State University and the Knight Foundation.” Accessed February 13, 2023. http://whovotesformayor.org/.
